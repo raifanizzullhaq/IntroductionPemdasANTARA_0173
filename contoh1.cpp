@@ -24,3 +24,11 @@ void Output(){
     //Display "Keliling Persegi Panjang : " + nKeliling
     cout << "Keliling Persegi Panjang : " << Keliling;
 }
+
+int main()
+{//Mulai
+    Input();
+    Proses();
+    Output();
+
+}//Selesai
