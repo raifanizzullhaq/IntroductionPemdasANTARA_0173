@@ -14,3 +14,8 @@ void Input(){
     //Accept nLebar
     cin >> Lebar;
 }
+
+int Proses(){
+    //Compute nKeliling = 2(p+l)
+    return Keliling = 2 * (Panjang + Lebar);
+}
